@@ -1,0 +1,42 @@
+_repo: The-Very-Secret-Agent_31612
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Willer
+    - Emsh, Ed
+    - Emsh
+    - Emshwiller, Edmund A.
+    - Alexander, Ed
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 31612-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wolf, Mari
+    birthdate: 1927
+    gutenberg_agent_id: '35350'
+    url: http://www.gutenberg.org/2009/agents/35350
+description: ''
+gutenberg_issued: '2010-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Very Secret Agent
+url: http://www.gutenberg.org/ebooks/31612
