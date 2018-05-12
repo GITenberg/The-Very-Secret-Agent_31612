@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '35350'
     url: http://www.gutenberg.org/2009/agents/35350
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31612#The-Very-Secret-Agent
 gutenberg_issued: '2010-03-12'
 gutenberg_type: Text
 identifiers:
